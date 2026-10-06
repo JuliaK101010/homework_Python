@@ -1,0 +1,5 @@
+Bug report
+
+1. Опечатка в docstring метода capitalize
+В описании метода написано: capitilize (с буквой 'i').
+Должно быть: capitalize.
